@@ -1,3 +1,23 @@
-h1 {
-    color: red;
+#sidebar {
+    background-color: lightslategray;
+    height: auto;
 }
+
+#logoBkgd {}
+
+#logo {
+    height: 130px;
+    float: left;
+}
+
+#main {}
+
+#formContainer {}
+
+h1 {}
+
+h2 {}
+
+p {}
+
+a {}
